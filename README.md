@@ -31,10 +31,10 @@ You are required to model the demand for shared bikes with the available indepen
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- Company can expand/kickstart business during Spring.
+- September is the best moth for business. Winter months can be low business time.
+- As year increase shown a huge  number of customers in 2019, company can expect a good growth in coming year.
+- Significant variables to predict the demand for shared bikes are holiday, temp,hum, windspeed, Season, months(January, July, September, November, December),Year (2019), Sunday ,weathersit( Light Snow, Mist + Cloudy)
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
