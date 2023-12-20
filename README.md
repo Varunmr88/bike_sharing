@@ -1,5 +1,5 @@
 # Bike Sharing Case Study
-> Problem Statement 
+> To create a model which would predict the demand for shared bikes with the available independent variables using logistic regression methods.
 
 ## Table of Contents
 * Business Problem
@@ -25,7 +25,7 @@ How well those variables describe the bike demands
 Based on various meteorological surveys and people's styles, the service provider firm has gathered a large dataset on daily bike demands across the American market based on some factors. 
 
 
-Business Goal
+## Business Goal
 You are required to model the demand for shared bikes with the available independent variables. It will be used by the management to understand how exactly the demands vary with different features. They can accordingly manipulate the business strategy to meet the demand levels and meet the customer's expectations. Further, the model will be a good way for management to understand the demand dynamics of a new market.
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
@@ -40,9 +40,10 @@ You are required to model the demand for shared bikes with the available indepen
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
+- numpy - version 1.19.2
+- pandas - version 1.1.3
+- seaborn - version 0.11.0
+- stat models - version 0.12.0
 
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
